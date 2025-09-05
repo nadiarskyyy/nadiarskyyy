@@ -1,6 +1,6 @@
 # ✨ Hi, I’m Nadia Resky Amanda Putri 
 
-![Coding Girl](https://i.gifer.com/3rNn.gif)
+![Coding Girl](https://i.gifer.com/xK.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FF69B4&center=true&vCenter=true&lines=Computer+Engineering+Student;Learning+AI,+Code+%26+Networks;Turning+Ideas+into+Reality)](https://git.io/typing-svg)
 
@@ -17,9 +17,9 @@
 
 ## 🎉 Fun Facts About Me
 - 🦄 Sometimes overthinker, sometimes random  
-- 🎵 Can sing soprano & alto (depends on the vibe 🎤)  
+- 🎵 Finds inspiration in music while working 
 - 🤓 INTP-T, but secretly also vibes like INFJ  
-- 📖 Fan of YLAB comics  
+- ☕ Can code late into the night fueled by coffee
 - 💡 Believe that tech should help people, not replace them  
 
 ---
