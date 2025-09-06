@@ -8,19 +8,19 @@
 
 ## 🌱 About Me
 - 🎓 2024 – Now: Computer Engineering student at Universitas Negeri Makassar  
-- 💻 Learning Programming (C, C++, Python, Java)  
+- 💻 Learning Programming (C, C++, Python, Java, PHP, HTML)  
 - 🌐 Exploring Networks, Databases, and AI basics  
-- 🌟 Personality: humble, curious, and always trying new things (even if I fail, I laugh)  
-- 🚀 Dreams: becoming a programmer who builds something useful  
+- 🌟 Personality: Passionate about learning and sharing knowledge  
+- 🚀 Dreams: To travel the world while working remotely 
 
 ---
 
 ## 🎉 Fun Facts About Me
-- 🦄 Sometimes overthinker, sometimes random  
-- 🎵 Finds inspiration in music while working 
-- 🤓 INTP-T, but secretly also vibes like INFJ  
+- 🎧 I can listen to music all day while coding  
+- 🎬 I enjoy watching korean drama
+- 🤓 ENFJ-T Ideas pop up in my head 24/7 (sometimes too many 😅)  
 - ☕ Can code late into the night fueled by coffee
-- 💡 Believe that tech should help people, not replace them  
+- 🌍 I enjoy connecting with people from different cultures  
 
 ---
 
